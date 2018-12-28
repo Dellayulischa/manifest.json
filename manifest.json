@@ -1,0 +1,38 @@
+{
+  "name": "Lokercikarang",
+  "short_name": "Lokercikarang",
+  "start_url": "https://www.lokercikarang.info/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Lowongan Kerja Cikarang Bekasi",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-BoqzbUic5Ig/XCV16uwrG_I/AAAAAAAAS8w/PWlbDldctrwECt5fABPkeyo-wFxIdqXNwCLcBGAs/s1600/Logo%2BLC%2B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7GRhCKSEIyY/XCV1fgra9JI/AAAAAAAAS8o/5prrGigi8IcTqAdIIQlkF05Ur9j0wdQ2gCLcBGAs/s1600/Logo%2BLC%2B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-R6UsynS7sH8/XCV1KGDjasI/AAAAAAAAS8g/1ggrC1-tZXIFIEm7tZMxUhuckbGNplcgACLcBGAs/s1600/Logo%2BLC%2B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-sgTMaqwIN2Q/XCV00kDjZkI/AAAAAAAAS8U/EzH8Qtx5EB4T_sTyGaaqEn6cuwUCErNmgCLcBGAs/s1600/Logo%2BLC%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-XoIgjrqsE_A/XCV0lt6Da8I/AAAAAAAAS8Q/maDepgmsNRg9vBk4WhO6XrQDrHXxmlqzQCLcBGAs/s1600/Logo%2BLC%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-Ia_wZn_77XE/XCV0TGaufTI/AAAAAAAAS8I/7vf6FxvqYE4ElFKCYa9Kl7Bxg7N5VE5YACLcBGAs/s1600/Logo%2BLC%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-9d2ju-uDVMY/XCVz8fkYxxI/AAAAAAAAS8A/8Gr8BaRVEHw1XTFsNOJfYyySXSVIIxSrQCLcBGAs/s1600/Logo%2BLC%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
